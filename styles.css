@@ -1,4 +1,7 @@
 *{
     box-sizing: border-box;
 }
-body {background-color: blue;}
+body {background-color: blue;
+
+}
+text {color: white;}
